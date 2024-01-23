@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+E:\Work\Popkorn_project\Popkorn\Popkorn\Engine.cpp(439,5): warning C4102: 'deafault': unreferenced label
+  Main.cpp
+  Generating Code...
+  Popkorn.vcxproj -> E:\Work\Popkorn_project\Popkorn\x64\Debug\Popkorn.exe
